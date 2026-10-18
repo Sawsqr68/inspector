@@ -52,12 +52,12 @@
     "globals": "^17.4.0",
     "ink-testing-library": "^4.0.0",
     "prettier": "3.8.4",
-    "tsup": "^8.5.0",
+    "tsup": "^9.0.0",
     "tsx": "^4.21.0",
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.56.1",
     "vite": "^8.1.5",
     "vite-node": "^6.0.0",
-    "vitest": "^4.1.10"
+    "vitest": "^5.0.5"
   }
 }
